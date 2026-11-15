@@ -57,12 +57,12 @@ Core: DSA · Git · GitHub
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 14, 2026: created a branch in [orion-pax09/Numpy_Pandas_Matplotlib_daily_Practice](https://github.com/orion-pax09/Numpy_Pandas_Matplotlib_daily_Practice).
+- Nov 12, 2026: pushed 1 commit to [orion-pax09/Learn_DSA](https://github.com/orion-pax09/Learn_DSA).
+- Nov 13, 2026: pushed 1 commit to [orion-pax09/Spendsense](https://github.com/orion-pax09/Spendsense).
 - Nov 6, 2026: pushed 1 commit to [orion-pax09/My-Achievements](https://github.com/orion-pax09/My-Achievements).
 - Oct 30, 2026: pushed 1 commit to [orion-pax09/Learn_DSA](https://github.com/orion-pax09/Learn_DSA).
 - Oct 26, 2026: pushed 1 commit to [orion-pax09/Learn_DSA](https://github.com/orion-pax09/Learn_DSA).
-- Oct 25, 2026: pushed 1 commit to [orion-pax09/Learn_DSA](https://github.com/orion-pax09/Learn_DSA).
-- Oct 24, 2026: pushed 1 commit to [orion-pax09/Learn_DSA](https://github.com/orion-pax09/Learn_DSA).
-- Oct 23, 2026: pushed 1 commit to [orion-pax09/Learn_DSA](https://github.com/orion-pax09/Learn_DSA).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
